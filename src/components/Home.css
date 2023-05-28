@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Lobster';
+    src: url('../content/Lobster-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('../content/Roboto-Regular.ttf') format('truetype');
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .screen{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(180deg, #1E1E1E 0%, rgba(0, 0, 0, 0.25) 99.99%, rgba(104, 24, 235, 0) 100%), #231A89;
+    background-repeat: no-repeat;
+}
+  .homecontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .nerdycat{
+    width: 150px;
+    height: 250px;
+  }
+  .hometitle{
+    font-family: 'Lobster';
+    color: #4757EC;
+    text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: 96px;
+    text-align: center;
+    margin: 10px;
+  }
+  
