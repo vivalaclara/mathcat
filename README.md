@@ -1,3 +1,8 @@
+# About this project
+
+MathCat is a web app to provide results to simple middle/high school math problems. I made it as some kind of "gift" to my younger, school-aged, siblings (we're brazilian, thus it's in Brazilian Portuguese). 
+You can check the figma prototype to this project [here](https://www.figma.com/file/I01wiQ2PPThCqnlI7jmvmJ/mathcat?node-id=0-1&t=udFrtWRc2PPJThE1-0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
